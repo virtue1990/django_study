@@ -1,0 +1,18 @@
+################ !!!! Git Ignore Config File !!! ################
+# NOTE: This file must be put under root dir of git project!
+#################################################################
+
+node_modules/
+
+# common ignore files
+*.swp
+*.tmp
+*.bak
+db.sqlite3
+
+# Mac files
+*.pyc
+Dock.egg-info/
+dist/
+config.yaml
+# Eclipse specific files
